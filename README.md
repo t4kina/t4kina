@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">A passionate System Administrator | Cloud & Infrastructure (AWS) | Cybersecurity</h3>
+<h1 align="center">Hi 👋, I'm Marc, a passionate weeb</h1>
+<h3 align="center">System Administrator | Cloud & Infrastructure (AWS) | Cybersecurity & Pentesting</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maarcnavarro9&label=Profile%20views&color=ee5959&style=flat" alt="maarcnavarro9" />
