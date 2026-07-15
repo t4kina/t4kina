@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marc</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate System Administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maarcnavarro9&label=Profile%20views&color=ee5959&style=flat" alt="maarcnavarro9" /> </p>
 
