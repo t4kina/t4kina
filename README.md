@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marc, a passionate weeb</h1>
+<h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">System Administrator | Cloud & Infrastructure (AWS) | Cybersecurity & Pentesting</h3>
 
 <p align="left">
