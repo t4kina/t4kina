@@ -39,7 +39,6 @@
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
   <a href="https://www.wireguard.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/wireguard/88171A" alt="wireguard" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://curl.se/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/curl/073551" alt="curl" width="40" height="40"/></a>
 
   <!-- Dev base -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
